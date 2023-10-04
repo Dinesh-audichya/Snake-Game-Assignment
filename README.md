@@ -4,5 +4,3 @@
 
 - **Topics**: Grid Movement, Data Structures
 - **Version**: Unity 2019.4 (LTS)
-- [**Download**](https://github.com/zigurous/unity-snake-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/U8gUnpeaMbQ)
